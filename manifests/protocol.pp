@@ -11,7 +11,7 @@
 #
 
 define dovecot::protocol ($ensure = present) {
-    require dovecot
+    include dovecot
 
     $package = $title ? {
         'imap'  => 'dovecot-imapd',
