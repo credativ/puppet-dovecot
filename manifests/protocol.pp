@@ -4,9 +4,6 @@
 #
 # == Parameters:
 #
-# [* package *]
-#   Which package to install.
-#
 # [* ensure *]
 #   What state to ensure for the package. Accepts the same values
 #   as the parameter of the same name for a package type.
