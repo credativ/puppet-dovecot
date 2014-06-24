@@ -1,4 +1,4 @@
-puppet-module-dovecot (20140624.2) UNRELEASED; urgency=medium
+puppet-module-dovecot (20140624.3) UNRELEASED; urgency=medium
 
   * Initial version
   * Use include instead of require.

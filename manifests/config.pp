@@ -7,7 +7,7 @@ define dovecot::config (
     $content = undef,
     $source  = undef,
 ) {
-    require dovecot
+    include dovecot
 
     file { "${dovecot::config_dir_d}/${name}.conf":
         ensure  => $ensure,
