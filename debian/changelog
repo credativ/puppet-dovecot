@@ -1,0 +1,5 @@
+puppet-module-dovecot (20140624.1) UNRELEASED; urgency=medium
+
+  * Initial version
+
+ -- Bastian Blank <bastian.blank@credativ.de>  Mon, 23 Jun 2014 16:53:47 +0200

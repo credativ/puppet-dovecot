@@ -1,0 +1,11 @@
+Source: puppet-module-dovecot
+Section: admin
+Priority: optional
+Maintainer: Bastian Blank <bastian.blank@credativ.de>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.5
+
+Package: puppet-module-dovecot
+Architecture: all
+Depends: ${misc:Depends}
+Description: puppet module dovecot
